@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: inherit;
+  margin: 0;
+}
+
+* {
+  font-family: 幼圆;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.page {
+  background-color: white;
+  flex-grow: 1;
+  padding: 25px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
